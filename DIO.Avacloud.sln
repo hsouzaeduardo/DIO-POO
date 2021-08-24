@@ -3,9 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.Entidades", "DIO.Avacloud.Entidades\DIO.Avacloud.Entidades.csproj", "{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO.Avacloud.Entidades", "DIO.Avacloud.Entidades\DIO.Avacloud.Entidades.csproj", "{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.Tests", "DIO.Avacloud.Tests\DIO.Avacloud.Tests.csproj", "{29351D11-5276-4A63-917B-192448A04732}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DIO.Avacloud.Tests", "DIO.Avacloud.Tests\DIO.Avacloud.Tests.csproj", "{29351D11-5276-4A63-917B-192448A04732}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.Infra", "DIO.Avacloud.Infra\DIO.Avacloud.Infra.csproj", "{FF0CEC9F-A7E4-41C5-A71E-D592DF2A0D73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.API", "DIO.Avacloud.API\DIO.Avacloud.API.csproj", "{C3EC8283-07DE-4C7C-B9E1-0B824185937B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{29351D11-5276-4A63-917B-192448A04732}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{29351D11-5276-4A63-917B-192448A04732}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{29351D11-5276-4A63-917B-192448A04732}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF0CEC9F-A7E4-41C5-A71E-D592DF2A0D73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF0CEC9F-A7E4-41C5-A71E-D592DF2A0D73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF0CEC9F-A7E4-41C5-A71E-D592DF2A0D73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF0CEC9F-A7E4-41C5-A71E-D592DF2A0D73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3EC8283-07DE-4C7C-B9E1-0B824185937B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3EC8283-07DE-4C7C-B9E1-0B824185937B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3EC8283-07DE-4C7C-B9E1-0B824185937B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3EC8283-07DE-4C7C-B9E1-0B824185937B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
