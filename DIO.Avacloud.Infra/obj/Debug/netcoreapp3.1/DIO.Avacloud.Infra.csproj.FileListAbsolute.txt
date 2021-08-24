@@ -1,0 +1,15 @@
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Infra.deps.json
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Infra.runtimeconfig.json
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Infra.runtimeconfig.dev.json
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Infra.dll
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Infra.pdb
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.dll
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\bin\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.pdb
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.csproj.AssemblyReference.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.AssemblyInfoInputs.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.AssemblyInfo.cs
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.csproj.CoreCompileInputs.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.csproj.CopyComplete
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.dll
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.pdb
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Infra\obj\Debug\netcoreapp3.1\DIO.Avacloud.Infra.genruntimeconfig.cache

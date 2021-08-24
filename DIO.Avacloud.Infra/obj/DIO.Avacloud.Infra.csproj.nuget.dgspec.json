@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Infra\\DIO.Avacloud.Infra.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\DIO.Avacloud.Entidades.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\DIO.Avacloud.Entidades.csproj",
+        "projectName": "DIO.Avacloud.Entidades",
+        "projectPath": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\DIO.Avacloud.Entidades.csproj",
+        "packagesPath": "C:\\Users\\hsouz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hsouz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Infra\\DIO.Avacloud.Infra.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Infra\\DIO.Avacloud.Infra.csproj",
+        "projectName": "DIO.Avacloud.Infra",
+        "projectPath": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Infra\\DIO.Avacloud.Infra.csproj",
+        "packagesPath": "C:\\Users\\hsouz\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Infra\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\hsouz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\DIO.Avacloud.Entidades.csproj": {
+                "projectPath": "C:\\Users\\hsouz\\source\\repos\\DIO.Avacloud\\DIO.Avacloud.Entidades\\DIO.Avacloud.Entidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.18, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.18, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.301\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
