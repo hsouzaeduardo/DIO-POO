@@ -1,0 +1,9 @@
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\bin\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.deps.json
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\bin\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.dll
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\bin\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.pdb
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.csproj.AssemblyReference.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.AssemblyInfoInputs.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.AssemblyInfo.cs
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.dll
+C:\Users\hsouz\source\repos\DIO.Avacloud\DIO.Avacloud.Entidades\obj\Debug\netcoreapp3.1\DIO.Avacloud.Entidades.pdb

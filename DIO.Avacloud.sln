@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.Entidades", "DIO.Avacloud.Entidades\DIO.Avacloud.Entidades.csproj", "{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIO.Avacloud.Tests", "DIO.Avacloud.Tests\DIO.Avacloud.Tests.csproj", "{29351D11-5276-4A63-917B-192448A04732}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A45A3A8-BD90-4988-BAC5-7AE9CA92B450}.Release|Any CPU.Build.0 = Release|Any CPU
+		{29351D11-5276-4A63-917B-192448A04732}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29351D11-5276-4A63-917B-192448A04732}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29351D11-5276-4A63-917B-192448A04732}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29351D11-5276-4A63-917B-192448A04732}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FC132B44-189F-428F-8B9E-33A74892183B}
+	EndGlobalSection
+EndGlobal
